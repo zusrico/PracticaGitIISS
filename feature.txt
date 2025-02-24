@@ -1,1 +1,2 @@
 Fichero de ejemplo con cambios en feature
+Nuevo cambio en feature. Apartado 7
